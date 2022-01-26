@@ -1,20 +1,19 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* name: White Belt Level 1
+* description: Welcome to Level 1 of **White Belt**!
 
 ## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* name: White Belt Level 1 
+* description: In this level, you will be introduced to basic computer science concepts.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
+### build1
 
-* name: Learn to use MakeCode Arcade
+* name: Your First Sprite
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Create your first coding project! Set the background color, add 1 sprite, position it on screen,  and then make it say something!
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: https://github.com/wedodgeCN/pxt-skillmap-sample/tutorials/bes1/build1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
